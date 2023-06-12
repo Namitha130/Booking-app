@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "gunda",
+      "email": "gunda@gmail.com",
+      "password": "gunda123",
+      "phone": "9876543219",
+      "dob": "01/01/2001",
+      "pic": "",
+      "active_bookings": [
+        {
+          "busname": "Airavatha",
+          "busnumber": "KA01E342",
+          "seats": "3",
+          "from": "Bengaluru",
+          "to": "Kodagu",
+          "start": "6:00am",
+          "end": "2:00pm",
+          "journey_time": "8",
+          "price": 1800,
+          "date": "2023-06-08"
+        }
+      ]
+    },
+    {
+      "username": "Namitha T P",
+      "email": "itsnamitha130@gmail.com",
+      "phone": "8123578130",
+      "password": "Enfield@350",
+      "confirmPassword": "Enfield@350",
+      "address": "chitradurga",
+      "dob": "1999-01-12",
+      "img": "C:\\fakepath\\DSC_9889.JPG",
+      "active_bookings": [
+        {
+          "busname": "Sri Durgamba",
+          "busnumber": "KA53EJ3420",
+          "seats": 1,
+          "from": "Bengaluru",
+          "to": "Udupi",
+          "start": "9:45pm",
+          "end": "06:45am",
+          "journey_time": "7",
+          "price": 800,
+          "date": "2023-06-30"
+        },
+        {
+          "flightname": "Indigo",
+          "flight_no": "578",
+          "seats": 1,
+          "from": "Bengaluru",
+          "to": "Mangalore",
+          "start": "20:20 PM",
+          "end": "21:20 PM",
+          "journey_time": "1",
+          "price": 5500,
+          "date": "2023-06-23"
+        }
+      ]
+    }
+  ]
+}
